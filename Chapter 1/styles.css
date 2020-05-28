@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(28, 32, 34);
+    color: white;
+    font-family: monaco,Consolas,Lucida Console,monospace;
+    padding: 20px;
+}
+
+a {
+    color: rgb(200,200,200);
+}
+a:hover, a:focus, a:active {
+    color: white;
+}
+a:visited {
+    color: rgb(200,200,200);
+}
+
+svg { 
+    background-color: white;
+}
+
+/* Exercise 1 */
+.exercise-1 svg {
+    background-image: url("Exercise 1/background.png");
+}
