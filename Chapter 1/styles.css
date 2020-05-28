@@ -21,5 +21,5 @@ svg {
 
 /* Exercise 1 */
 .exercise-1 svg {
-    background-image: url("Exercise 1/background.png");
+    background-image: url("./Exercise 1/background.png");
 }
